@@ -1,3 +1,11 @@
-theme: jekyll-theme-minimal
-title: title
-description: desc
+title: My Blog
+description: >-
+  Write an awesome description for your new site here.
+
+theme: minima
+
+# This forces every post to be generated at /blog/post-name
+permalink: /blog/:title/
+
+plugins:
+  - jekyll-feed
