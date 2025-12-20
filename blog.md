@@ -1,3 +1,3 @@
-layout: page
+layout: home
 title: "blog"
-permalink: /blog
+permalink: /blog/
