@@ -13,4 +13,5 @@ At the time, I was working at a recording studio on and off while working for my
 I'm also totally obsessed with what I'm building and working towards finishing it right now. I will almost certainly cherish and feel nostalgic about the late nights I'm pulling and the small wins I'm achieving as this thing comes to life.
 
 ![Neltharax](/assets/images/32475-reviewing-the-10-0-7-neltharax-bow-nerfs-beast-mastery-and-marksmanship-hunter.jpg)
+
 ![Raszageth](/assets/images/32476-reviewing-the-10-0-7-neltharax-bow-nerfs-beast-mastery-and-marksmanship-hunter.jpg)
